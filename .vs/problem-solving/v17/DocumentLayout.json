@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\problem-solving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}|NeetCode\\HasDuplicate.csproj|c:\\problem-solving\\neetcode\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}|NeetCode\\HasDuplicate.csproj|solutionrelative:neetcode\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{51F827A7-904F-498F-90F9-405077C57E3A}|Valid-Anagram\\Valid-Anagram.csproj|c:\\problem-solving\\valid-anagram\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{51F827A7-904F-498F-90F9-405077C57E3A}|Valid-Anagram\\Valid-Anagram.csproj|solutionrelative:valid-anagram\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F827A7-904F-498F-90F9-405077C57E3A}|Valid-Anagram\\Valid-Anagram.csproj|c:\\problem-solving\\valid-anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F827A7-904F-498F-90F9-405077C57E3A}|Valid-Anagram\\Valid-Anagram.csproj|solutionrelative:valid-anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}|NeetCode\\HasDuplicate.csproj|c:\\problem-solving\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\problem-solving\\NeetCode\\.gitignore.txt",
-              "RelativeDocumentMoniker": "NeetCode\\.gitignore.txt",
-              "ToolTip": "C:\\problem-solving\\NeetCode\\.gitignore.txt",
-              "RelativeToolTip": "NeetCode\\.gitignore.txt",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\problem-solving\\Valid-Anagram\\.gitignore",
+              "RelativeDocumentMoniker": "Valid-Anagram\\.gitignore",
+              "ToolTip": "C:\\problem-solving\\Valid-Anagram\\.gitignore",
+              "RelativeToolTip": "Valid-Anagram\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-03T22:32:46.4Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T23:00:14.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\problem-solving\\Valid-Anagram\\Program.cs",
+              "RelativeDocumentMoniker": "Valid-Anagram\\Program.cs",
+              "ToolTip": "C:\\problem-solving\\Valid-Anagram\\Program.cs",
+              "RelativeToolTip": "Valid-Anagram\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T22:35:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\problem-solving\\NeetCode\\Program.cs",
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
@@ -63,8 +80,7 @@
               "RelativeToolTip": "NeetCode\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T22:19:01.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T22:19:01.276Z"
             },
             {
               "$type": "Bookmark",
