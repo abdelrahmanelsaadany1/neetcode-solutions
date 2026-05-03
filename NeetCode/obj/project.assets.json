@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\problem-solving\\NeetCode\\NeetCode.csproj",
-      "projectName": "NeetCode",
-      "projectPath": "C:\\problem-solving\\NeetCode\\NeetCode.csproj",
+      "projectUniqueName": "C:\\problem-solving\\NeetCode\\HasDuplicate.csproj",
+      "projectName": "HasDuplicate",
+      "projectPath": "C:\\problem-solving\\NeetCode\\HasDuplicate.csproj",
       "packagesPath": "C:\\Users\\aelsa\\.nuget\\packages\\",
       "outputPath": "C:\\problem-solving\\NeetCode\\obj\\",
       "projectStyle": "PackageReference",
