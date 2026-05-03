@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasDuplicate", "NeetCode\HasDuplicate.csproj", "{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid-Anagram", "Valid-Anagram\Valid-Anagram.csproj", "{51F827A7-904F-498F-90F9-405077C57E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{473FAE24-38B3-419F-A6C1-DA73618DE829}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9AE09B65-16DB-4E2D-9F60-CBBF1FBCFE92}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51F827A7-904F-498F-90F9-405077C57E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51F827A7-904F-498F-90F9-405077C57E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51F827A7-904F-498F-90F9-405077C57E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51F827A7-904F-498F-90F9-405077C57E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valid-Anagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28f0c98602835ee2106c78bfc7ad4646d974dbae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c95bfab747a1536850516578d3d5e7cd885a3423")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valid-Anagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valid-Anagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
