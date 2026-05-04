@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid-Anagram", "Valid-Anag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{473FAE24-38B3-419F-A6C1-DA73618DE829}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasDuplicate", "HasDuplicate\HasDuplicate.csproj", "{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{473FAE24-38B3-419F-A6C1-DA73618DE829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
