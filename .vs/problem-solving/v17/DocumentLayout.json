@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\problem-solving\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A895306-C5C7-455B-85F8-3244E96E13F3}|Valid Parentheses\\Valid Parentheses.csproj|c:\\problem-solving\\valid parentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A895306-C5C7-455B-85F8-3244E96E13F3}|Valid Parentheses\\Valid Parentheses.csproj|solutionrelative:valid parentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}|HasDuplicate\\HasDuplicate.csproj|c:\\problem-solving\\hasduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}|HasDuplicate\\HasDuplicate.csproj|solutionrelative:hasduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,21 +53,38 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\problem-solving\\Valid Parentheses\\Program.cs",
+              "RelativeDocumentMoniker": "Valid Parentheses\\Program.cs",
+              "ToolTip": "C:\\problem-solving\\Valid Parentheses\\Program.cs",
+              "RelativeToolTip": "Valid Parentheses\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:57:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\problem-solving\\HasDuplicate\\Program.cs",
               "RelativeDocumentMoniker": "HasDuplicate\\Program.cs",
               "ToolTip": "C:\\problem-solving\\HasDuplicate\\Program.cs",
               "RelativeToolTip": "HasDuplicate\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T13:00:06.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\problem-solving\\IsPalindrome\\Program.cs",
               "RelativeDocumentMoniker": "IsPalindrome\\Program.cs",
@@ -71,12 +92,11 @@
               "RelativeToolTip": "IsPalindrome\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T23:24:41.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T23:24:41.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\problem-solving\\Valid-Anagram\\Program.cs",
               "RelativeDocumentMoniker": "Valid-Anagram\\Program.cs",
@@ -88,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\problem-solving\\NeetCode\\Program.cs",
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
@@ -97,10 +117,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T22:19:01.276Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

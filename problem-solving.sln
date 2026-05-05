@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasDuplicate", "HasDuplicate\HasDuplicate.csproj", "{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.csproj", "{3A895306-C5C7-455B-85F8-3244E96E13F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4E2E14-34FB-4552-A28B-D951DFC3C3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A895306-C5C7-455B-85F8-3244E96E13F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A895306-C5C7-455B-85F8-3244E96E13F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A895306-C5C7-455B-85F8-3244E96E13F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A895306-C5C7-455B-85F8-3244E96E13F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
